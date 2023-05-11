@@ -1,0 +1,28 @@
+.banner {
+  height: 200px;
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  padding: 200px 0;
+  align-items: center;
+}
+
+.container{
+  width: 800px;
+  margin:0 auto;
+}
+
+.banner .container h1{
+  color: white;
+}
+
+.banner .container p{
+  color: white;
+  margin-bottom: 40px;
+}
+
+.btn-green{
+  padding: 15px;
+  color: white;
+  background-color: rgb(28, 214, 28);
+  border-radius: 30px;
+}

@@ -1,0 +1,26 @@
+.container h2{
+margin: 0 auto;
+padding: 20px;
+}
+.text-center{
+  text-align: center;
+}
+.card{
+  width: 250px;
+  height: 300px;
+  box-shadow: 0 0 1px 1px lightgray;
+  text-align: center;
+}
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.card img{
+  width: 150px;
+  padding: 20px;
+
+}
+.card p{
+  color: rgb(172, 168, 168);
+}
